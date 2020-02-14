@@ -1,2 +1,2 @@
 # open-Data-vizualisation-practice
-Visualisation of open data. 
+Practice in Visualisation of open data in python. 
